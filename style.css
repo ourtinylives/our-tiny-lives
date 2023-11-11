@@ -4,7 +4,7 @@
 
 #Header1 > div > p {background-color: #7c7b7bb8; padding: 1rem; border-radius: 5px; box-shadow: 0 2px 4px rgba(0, 0, 0, .5);}
 
-#BlogArchive {
+.BlogArchive {
   width: 90%;
   padding-top: 1rem;
   align-self: start;
