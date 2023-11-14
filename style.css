@@ -1,8 +1,20 @@
 .post-outer-container, .FeaturedPost {border-radius: 5px;}
 
-.bg-photo-overlay {background: none;}
+.bg-photo-overlay {background: none; background-color: white;}
 
-#Header1 > div > p {background-color: #7c7b7bb8; padding: 1rem; border-radius: 5px; box-shadow: 0 2px 4px rgba(0, 0, 0, .5);}
+#Header1 > p{
+  background-color: #7c7b7bb8;
+  margin-top: 3rem;
+  padding: 1rem;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, .5);
+  opacity: 1 !important;
+}
+
+.header-widgit {
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, .5);
+}
 
 .BlogArchive {
   width: 90% !important;
