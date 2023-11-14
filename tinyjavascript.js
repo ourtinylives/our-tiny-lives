@@ -1,5 +1,5 @@
 window.onscroll = function() {
-    var navbar = document.getElementById(&quot;navbar&quot;);
+    var navbar = document.getElementById(navbar);
     if (document.body.scrollTop &gt; 50 || document.documentElement.scrollTop &gt; 50) {
         navbar.style.opacity = 0.6; // Solid color when scrolled
         navbar.style.transition = &quot;opacity 0.3s&quot;;
