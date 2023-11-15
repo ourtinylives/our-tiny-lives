@@ -121,4 +121,4 @@ window.addEventListener('DOMContentLoaded', (event) => {
 }, function() {
       console.log('callback - particles.js config loaded');
     });
-}
+});
