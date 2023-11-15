@@ -9,7 +9,7 @@ window.onscroll = function() {
 };
 
 window.addEventListener('DOMContentLoaded', (event) => {
-    particlesJS.load('particles-js', {
+    particlesJS('particles-js', {
       "particles": {
         "number": {
           "value": 40,
