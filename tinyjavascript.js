@@ -8,6 +8,6 @@ window.onscroll = function() {
     }
 };
 
-particlesJS.load('particles-js', 'particles.json', function() {
+particlesJS.load('particles-js', 'https://ourtinylives.github.io/our-tiny-lives/particlesjs-config.json', function() {
   console.log('callback - particles.js config loaded');
 });
